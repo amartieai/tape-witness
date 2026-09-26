@@ -1,0 +1,7 @@
+frames/
+*.mkv
+*.mp4
+HASHES.txt
+__pycache__/
+*_receipts.jsonl
+*.json.bak
