@@ -144,3 +144,9 @@ full E2E pipeline against `examples/`. CI runs them on every push.
 
 MIT. Measure everything. Keep your own records append-only. They can erase
 their logs; they cannot erase yours.
+
+## The witness family
+- [Witness Stand](https://github.com/amartieai/witness-stand) — a judge for the judges
+- [Trade Witness](https://github.com/amartieai/trade-witness) — the always-on trading witness
+- The stand itself: [r/TheWitnessStand](https://www.reddit.com/r/TheWitnessStand/)
+- Home: [amartie.org](https://amartie.org)
