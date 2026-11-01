@@ -4,6 +4,27 @@ Prove what your own screen recorded vs what the public record claims, at the
 minutes YOU acted. No strategy, no predictions, no identifying data. The tool
 is a ruler, not a trader.
 
+## What this is, in plain words
+
+You are trading. Your screen shows you a chart — candles and volume bars. There is also a public record of that same market: the official data everyone else sees, and the data your own account later exports.
+
+**On a quiet minute, the two agree.** Nobody is trading, nothing is happening, and what your screen showed is exactly what the public record shows. This tool has checked thousands of those quiet minutes. They match.
+
+**At the minute you click, they stop agreeing.**
+
+- Your screen showed a small amount of volume. The public record shows **double**.
+- You sold. The public record prints your sell as **buying**.
+- Your screen showed the price reaching one high. The public record claims a **higher high your screen never showed**.
+- And sometimes, when you pull the same data again later, **the minute is simply gone** — it was in the early export, it is not in the later one.
+
+This does not happen in the quiet minutes around your trade. It happens at **your** minutes — the moments of a live trade, when a real person acts. Thousands of quiet minutes: no anomaly. Action minutes: the anomaly, again and again.
+
+**Nobody knows why.** This tool does not claim a cause, and it does not name a culprit. What it proves is narrower, and harder to argue with: **the mismatch is conditional on action.** It is off when you are still, and on when you act. That on/off pattern is a fact anyone can measure — and that is the invitation. **Test it yourself.** Record your screen, pull your data twice, run the ruler. If it happens on your account too, the pattern is bigger than one person's screen. If it doesn't, the census will show that honestly too.
+
+Why it matters, in one sentence: **if the public is shown one set of candles and volumes, and the person actually trading is shown another set at the very moment of the trade, then the data is misleading — and until now it was unprovable.** A screen recording plus two data pulls makes it provable, recorded, and repeatable by anyone.
+
+*The anomaly in one picture — quiet minute vs. action minute vs. the later pull — is being produced as a plate for this page (docs/anomaly-plate.png) and will be posted here the moment it is ready.*
+
 ## The anomaly patterns it grades
 
 On a dead, boring, barely-moving asset — overnight micro futures, median
